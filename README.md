@@ -64,9 +64,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the [MIT License](LICENSE).
 
 ## 💬 Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kartik-sharma-5a220b31b/)
-- 🔗 [GitHub](https://github.com/kartik417/AIMlApps)
 """
 
 # Save to a file
